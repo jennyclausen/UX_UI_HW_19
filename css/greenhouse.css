@@ -1,0 +1,157 @@
+/* screen - greenhouse */
+
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.greenhouse {
+  background-color: var(--white);
+  height: 768px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1366px;
+}
+.greenhouse .case-study-oming-soon-zUixHA {
+  background-color: transparent;
+  bottom: calc(24.12% - 7px);
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(22.51% - 50px);
+  text-align: left;
+  width: 224px;
+}
+.greenhouse .greenhouse-zUixHA {
+  background-color: transparent;
+  height: 47px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  right: calc(21.56% - 56px);
+  text-align: left;
+  top: calc(28.43% - 13px);
+  white-space: nowrap;
+  width: 260px;
+}
+.greenhouse .group-2-C61RwL {
+  background-color: transparent;
+  height: 768px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1308px;
+}
+.greenhouse .icon-material-home-zUixHA {
+  background-color: transparent;
+  height: 26px;
+  position: absolute;
+  right: 0px;
+  top: 72px;
+  width: 30px;
+}
+.greenhouse .line-2-zUixHA {
+  background-color: transparent;
+  bottom: calc(25.20% - 1px);
+  height: 2px;
+  position: absolute;
+  right: calc(38.23% - 21px);
+  width: 55px;
+}
+.greenhouse .rectangle-22-zUixHA {
+  background-color: var(--acapulco);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 550px;
+}
+.greenhouse .when-someo--reminders-zUixHA {
+  background-color: transparent;
+  bottom: calc(45.83% - 110px);
+  height: 240px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: 121px;
+  text-align: center;
+  width: 471px;
+}
+.hoeflertext-regular-normal-dove-gray-30px {
+  color: var(--dove-gray);
+  font-family: 'HoeflerText-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+.hoeflertext-regular-normal-white-30px {
+  color: var(--white);
+  font-family: 'HoeflerText-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-normal-dove-gray-15px {
+  color: var(--dove-gray);
+  font-family: "KufiStandardGK", Helvetica, Arial, serif;
+  font-size: 15px;
+}
+.kufistandardgk-regular-normal-black-15px {
+  color: var(--black);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-regular-normal-dove-gray-15px {
+  color: var(--dove-gray);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-regular-normal-dove-gray-25px {
+  color: var(--dove-gray);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-regular-normal-dove-gray-45px {
+  color: var(--dove-gray);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-regular-normal-shark-20px {
+  color: var(--shark);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-regular-normal-white-30px {
+  color: var(--white);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-regular-normal-white-50px {
+  color: var(--white);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --acapulco: rgba(128,173,160,1.0);
+  --black: rgba(0,0,0,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --gothic: rgba(100,150,166,1.0);
+  --mountain-mist: rgba(153,153,153,1.0);
+  --shark: rgba(36,36,36,1.0);
+  --tradewind: rgba(82,169,171,1.0);
+  --white: rgba(255,255,255,1.0);
+}

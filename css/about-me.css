@@ -1,0 +1,635 @@
+/* screen - about-me */
+
+.about-me {
+  background-color: var(--white);
+  height: 807px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1366px;
+}
+.about-me .about-iZjIT4 {
+  background-color: transparent;
+  bottom: 102px;
+  color: var(--tradewind);
+  font-family: "KufiStandardGK", Helvetica, Arial, serif;
+  font-size: 40px;
+  height: 59px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  width: 128px;
+}
+.about-me .about-me-iZjIT4 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 23px;
+  left: calc(34.78% - 25px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: 71px;
+}
+.about-me .bio-iZjIT4 {
+  background-color: transparent;
+  color: var(--acapulco);
+  font-family: "KufiStandardGK", Helvetica, Arial, serif;
+  font-size: 40px;
+  height: 59px;
+  left: calc(39.06% - 32px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  width: 82px;
+}
+.about-me .curious-observant-iZjIT4 {
+  background-color: transparent;
+  bottom: calc(43.24% - 13px);
+  color: var(--black);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: calc(42.78% - 82px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  width: 191px;
+}
+.about-me .devices-iZjIT4 {
+  background-color: transparent;
+  bottom: calc(29.66% - 18px);
+  color: var(--tradewind);
+  font-family: "KufiStandardGK", Helvetica, Arial, serif;
+  font-size: 40px;
+  height: 59px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(20.10% - 33px);
+  text-align: left;
+  width: 162px;
+}
+.about-me .education--h-bootcamp-iZjIT4 {
+  background-color: transparent;
+  bottom: 62px;
+  height: 23px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: 280px;
+}
+.about-me .frustrations-iZjIT4 {
+  background-color: transparent;
+  color: var(--tradewind);
+  font-family: "KufiStandardGK", Helvetica, Arial, serif;
+  font-size: 40px;
+  height: 59px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: 158px;
+  text-align: left;
+  top: calc(32.60% - 19px);
+  width: 237px;
+}
+.about-me .goals-iZjIT4 {
+  background-color: transparent;
+  color: var(--acapulco);
+  font-family: "KufiStandardGK", Helvetica, Arial, serif;
+  font-size: 40px;
+  height: 59px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(22.54% - 29px);
+  text-align: left;
+  top: 20px;
+  width: 127px;
+}
+.about-me .group-5-C61RwL {
+  background-color: transparent;
+  height: 740px;
+  left: 16px;
+  position: relative;
+  top: 18px;
+  width: 1336px;
+}
+.about-me .i-want-to---solutions-iZjIT4 {
+  background-color: transparent;
+  height: 108px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 72px;
+  width: 398px;
+}
+.about-me .icon-aweso-e-linkedin-iZjIT4 {
+  background-color: transparent;
+  bottom: calc(42.29% - 13px);
+  height: 32px;
+  left: 181px;
+  position: absolute;
+  width: 32px;
+}
+.about-me .icon-ionic-e-portrait-KrRxTc {
+  background-color: transparent;
+  bottom: calc(42.16% - 18px);
+  height: 43px;
+  left: 125px;
+  position: absolute;
+  width: 23px;
+}
+.about-me .icon-ionic-e-portrait-NmAHLx {
+  background-color: transparent;
+  bottom: 64px;
+  height: 35px;
+  position: absolute;
+  right: calc(27.94% - 8px);
+  width: 30px;
+}
+.about-me .icon-ionic-e-portrait-iZjIT4 {
+  background-color: transparent;
+  bottom: calc(23.50% - 7px);
+  height: 32px;
+  position: absolute;
+  right: calc(28.19% - 4px);
+  width: 16px;
+}
+.about-me .icon-ionic-md-laptop-iZjIT4 {
+  background-color: transparent;
+  bottom: 119px;
+  height: 27px;
+  position: absolute;
+  right: calc(27.85% - 10px);
+  width: 36px;
+}
+.about-me .icon-material-home-iZjIT4 {
+  background-color: transparent;
+  height: 26px;
+  position: absolute;
+  right: 52px;
+  top: 54px;
+  width: 30px;
+}
+.about-me .icon-zocial-email-iZjIT4 {
+  background-color: transparent;
+  bottom: calc(42.36% - 11px);
+  height: 25px;
+  left: 53px;
+  position: absolute;
+  width: 37px;
+}
+.about-me .im-always--s-possible-iZjIT4 {
+  background-color: transparent;
+  bottom: calc(30.02% - 26px);
+  color: var(--white);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 87px;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: 336px;
+}
+.about-me .ipad-iZjIT4 {
+  background-color: transparent;
+  bottom: 71px;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: calc(23.43% - 8px);
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+.about-me .iphone-iZjIT4 {
+  background-color: transparent;
+  bottom: calc(25.03% - 4px);
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: calc(21.06% - 15px);
+  text-align: left;
+  white-space: nowrap;
+  width: 73px;
+}
+.about-me .jenny-clausen-iZjIT4 {
+  background-color: transparent;
+  color: var(--dove-gray);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: 72px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: calc(37.43% - 27px);
+  width: 339px;
+}
+.about-me .jenny-has--e-found-ux-iZjIT4 {
+  background-color: transparent;
+  height: 201px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: calc(48.42% - 187px);
+  text-align: left;
+  top: 77px;
+  width: 386px;
+}
+.about-me .jenny-prof-le-cropped-gKyTPx {
+  background-color: transparent;
+  height: calc(100.00% + 222px);
+  left: 0px;
+  position: absolute;
+  top: -80px;
+  width: 100%;
+}
+.about-me .location-s--lake-city-iZjIT4 {
+  background-color: transparent;
+  bottom: 90px;
+  height: 23px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: 230px;
+}
+.about-me .mac-book-pro-iZjIT4 {
+  background-color: transparent;
+  bottom: 123px;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: calc(19.60% - 19px);
+  text-align: left;
+  width: 96px;
+}
+.about-me .mask-group-15-iZjIT4 {
+  background-color: transparent;
+  height: 250px;
+  left: 36px;
+  position: absolute;
+  top: 0px;
+  width: 250px;
+}
+.about-me .noting-hav-t-her-toys-iZjIT4 {
+  background-color: transparent;
+  height: 157px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  right: 19px;
+  text-align: left;
+  top: calc(47.94% - 75px);
+  width: 376px;
+}
+.about-me .occupation-x-designer-iZjIT4 {
+  background-color: transparent;
+  bottom: 19px;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: 222px;
+}
+.about-me .personality-iZjIT4 {
+  background-color: transparent;
+  color: var(--dove-gray);
+  font-family: "KufiStandardGK", Helvetica, Arial, serif;
+  font-size: 40px;
+  height: 59px;
+  left: calc(43.94% - 97px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: calc(40.23% - 24px);
+  width: 221px;
+}
+.about-me .projects-iZjIT4 {
+  background-color: transparent;
+  bottom: 4px;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: calc(36.19% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 65px;
+}
+.about-me .rectangle-7-iZjIT4 {
+  background-color: var(--acapulco);
+  bottom: calc(31.66% - 57px);
+  height: 181px;
+  left: 0px;
+  position: absolute;
+  width: 373px;
+}
+.about-me .resume-iZjIT4 {
+  background-color: transparent;
+  bottom: 4px;
+  height: 17px;
+  left: calc(49.45% - 32px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 64px;
+}
+.about-me .screen-sho-t-10810-pm-iZjIT4 {
+  background-color: transparent;
+  bottom: calc(49.20% - 27px);
+  height: 55px;
+  left: calc(49.24% - 168px);
+  position: absolute;
+  width: 341px;
+}
+.about-me .screen-sho-t-11914-pm-iZjIT4 {
+  background-color: transparent;
+  bottom: calc(38.69% - 14px);
+  height: 37px;
+  left: calc(41.30% - 62px);
+  position: absolute;
+  width: 150px;
+}
+.about-me .span0-61g1eb {
+  color: rgba(112,112,112,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span0-6uXmKA {
+  color: rgba(112,112,112,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span0-MKVWQv {
+  color: rgba(128,173,160,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span0-Z6adQZ {
+  color: rgba(112,112,112,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span0-ZFbqmM {
+  color: rgba(128,173,160,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span0-cAgHWG {
+  color: rgba(112,112,112,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span0-kkBKex {
+  color: rgba(128,173,160,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span0-ktv57b {
+  color: rgba(128,173,160,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span0-vTxxMu {
+  color: rgba(112,112,112,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span0-xMk6xa {
+  color: rgba(112,112,112,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span1-61g1eb {
+  color: rgba(82,169,171,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span1-6uXmKA {
+  color: rgba(82,169,171,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span1-MKVWQv {
+  color: rgba(112,112,112,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span1-Z6adQZ {
+  color: rgba(82,169,171,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span1-ZFbqmM {
+  color: rgba(112,112,112,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span1-cAgHWG {
+  color: rgba(128,173,160,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span1-kkBKex {
+  color: rgba(112,112,112,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span1-ktv57b {
+  color: rgba(112,112,112,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span1-vTxxMu {
+  color: rgba(128,173,160,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span1-xMk6xa {
+  color: rgba(82,169,171,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span2-xMk6xa {
+  color: rgba(112,112,112,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .the-campai-ner-enfp-t-iZjIT4 {
+  background-color: transparent;
+  height: 23px;
+  left: calc(42.63% - 80px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(45.61% - 10px);
+  width: 187px;
+}
+.about-me .they-tend--er-meaning-iZjIT4 {
+  background-color: transparent;
+  bottom: calc(24.15% - 30px);
+  height: 123px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: calc(49.33% - 182px);
+  text-align: left;
+  width: 369px;
+}
+.about-me .ux-designer-iZjIT4 {
+  background-color: transparent;
+  color: var(--dove-gray);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: 59px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: calc(45.37% - 27px);
+  width: 243px;
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.hoeflertext-regular-normal-dove-gray-30px {
+  color: var(--dove-gray);
+  font-family: 'HoeflerText-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+.hoeflertext-regular-normal-white-30px {
+  color: var(--white);
+  font-family: 'HoeflerText-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-normal-dove-gray-15px {
+  color: var(--dove-gray);
+  font-family: "KufiStandardGK", Helvetica, Arial, serif;
+  font-size: 15px;
+}
+.kufistandardgk-regular-normal-black-15px {
+  color: var(--black);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-regular-normal-dove-gray-15px {
+  color: var(--dove-gray);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-regular-normal-dove-gray-25px {
+  color: var(--dove-gray);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-regular-normal-dove-gray-45px {
+  color: var(--dove-gray);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-regular-normal-shark-20px {
+  color: var(--shark);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-regular-normal-white-30px {
+  color: var(--white);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-regular-normal-white-50px {
+  color: var(--white);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --acapulco: rgba(128,173,160,1.0);
+  --black: rgba(0,0,0,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --gothic: rgba(100,150,166,1.0);
+  --mountain-mist: rgba(153,153,153,1.0);
+  --shark: rgba(36,36,36,1.0);
+  --tradewind: rgba(82,169,171,1.0);
+  --white: rgba(255,255,255,1.0);
+}
