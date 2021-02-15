@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1366, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <style>
+      @font-face { 
+        font-family: "HelveticaNeue-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5cf8ce54520dfb8030e86611/HelveticaNeue-Regular.ttf")
+          format("truetype");
+      }
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(255, 255, 255, 1)">
+    <input type="hidden" id="anPageName" name="page" value="web-1366-1" />
+    <div class="container-center-horizontal">
+      <div class="web-1366-1 screen">
+        <div class="group-1-C61RwL">
+          <img class="path-1-VyzZeT" src="img/path-1@1x.png" />
+          <div class="jenny-clausen-VyzZeT animate-enter">Jenny Clausen</div>
+          <div class="ux-designer-VyzZeT animate-enter1">UX Designer</div>
+          <div class="with-my-ex--was-found-VyzZeT animate-enter2">
+            With my expansive Customer Service and HR background I specialize in User Research and feedback. I thrive on
+            creative problem solving for user problems and implementing a tactical plan to best solve what was found.
+          </div>
+          <img class="icon-zocial-email-VyzZeT animate-enter3" src="img/icon-zocial-email@1x.png" />
+          <img class="icon-aweso-e-linkedin-VyzZeT animate-enter4" src="img/icon-awesome-linkedin@1x.png" />
+          <div class="ellipse-1-VyzZeT border-1px-dove-gray animate-enter5"></div>
+          <div class="ellipse-2-VyzZeT border-1px-dove-gray animate-enter6"></div>
+          <div class="ellipse-3-VyzZeT border-1px-dove-gray animate-enter7"></div>
+          <div class="component-2-2-VyzZeT">
+            <div class="jenny-clausen-tDnmrH">Jenny Clausen</div>
+            <div class="x1-tDnmrH"></div>
+            <div class="ux-designer-tDnmrH">UX Designer</div>
+          </div>
+          <img class="icon-ionic-e-portrait-VyzZeT animate-enter8" src="img/icon-ionic-ios-phone-portrait@1x.png" />
+          <div class="about-me-VyzZeT hoeflertext-regular-normal-dove-gray-30px">About Me</div>
+          <div class="portfolio-VyzZeT hoeflertext-regular-normal-dove-gray-30px">Portfolio</div>
+          <div class="resume-VyzZeT hoeflertext-regular-normal-dove-gray-30px">Resume</div>
+          <div class="case-study-oming-soon-VyzZeT">case study coming soon</div>
+          <div class="case-study-VyzZeT">case study</div>
+          <div class="greenhouse-VyzZeT">Greenhouse</div>
+          <div class="locals-VyzZeT">Locals</div>
+          <div class="non-profit-VyzZeT">Non-Profit</div>
+          <div class="when-someo--reminders-VyzZeT">
+            When someone is newt plant ownership, knowing when and how much water can be frustrating and overwhelming.
+            We intend to take all of th complicated parts plant ownership and make them as easy as taking a photo and
+            setting reminders.
+          </div>
+          <div class="travelers---they-othe-VyzZeT">
+            Travelers who want to delve deeper beyond the typical tourist sites that algorithmic search engines offer,
+            we can help authenticity-seeking travelers have more fulfilling and rich travel experiences, make lifelong
+            friends, and try new things that they otherwise wouldn’t have the financial means.
+          </div>
+          <div class="we-believe-ng-to-help-VyzZeT">
+            We believe that redesigning the Non-Profit website for those willing to donate or volunteer will help the
+            company receive more donations and volunteers because they will have more of an emotional response viewing
+            the website and, therefore, wanting to help.
+          </div>
+          <div class="my-work-VyzZeT">My Work</div>
+          <div class="see-all-projects-VyzZeT">See All Projects</div>
+          <div class="rectangle-24-VyzZeT"></div>
+          <div class="rectangle-23-VyzZeT"></div>
+          <div class="rectangle-22-VyzZeT"></div>
+          <div class="user-research-VyzZeT kufistandardgk-regular-normal-white-50px">User Research</div>
+          <div class="with-an-em-he-project-VyzZeT kufistandardgk-regular-normal-white-30px">
+            With an emphasis on interviews and gathering detailed information for stakeholders and to enable progress in
+            the project.
+          </div>
+          <div class="ideation-VyzZeT kufistandardgk-regular-normal-white-50px">Ideation</div>
+          <div class="generate-h-lder-wants-VyzZeT kufistandardgk-regular-normal-white-30px">
+            Generate hundreds of ideas that create a broad pool of options that solve the same pain point. While
+            still&nbsp;&nbsp;being able to achie stakeholder wants.&nbsp;&nbsp;
+          </div>
+          <div class="ux-design-VyzZeT kufistandardgk-regular-normal-white-50px">UX Design</div>
+          <div class="creating-s-eract-with-VyzZeT kufistandardgk-regular-normal-white-30px">
+            Creating Seemless designs for both digital physical products to create ease of use and are delightful to
+            interact with.
+          </div>
+          <div class="case-study-ri4jeA">case study</div>
+          <img class="mask-group-14-VyzZeT" src="img/mask-group-14@1x.png" />
+        </div>
+        <div class="portfolio-C61RwL hoeflertext-regular-normal-white-30px">Portfolio</div>
+        <div class="about-me-C61RwL hoeflertext-regular-normal-white-30px">About Me</div>
+        <div class="resume-C61RwL hoeflertext-regular-normal-white-30px">Resume</div>
+      </div>
+    </div>
+    <script>
+      function ShowOnScroll() {
+        this.toShow = [];
+        this.nextEventY = undefined;
+      }
+
+      ShowOnScroll.prototype.show = function (e) {
+        e.style.display = "";
+      };
+
+      ShowOnScroll.prototype.hide = function (e) {
+        e.style.display = "none";
+      };
+
+      ShowOnScroll.prototype.getTop = function (e) {
+        if (e.Top != undefined && e.Top != 0) {
+          return e.Top;
+        }
+        var top = 0;
+        var iter = e;
+        do {
+          top += iter.offsetTop || 0;
+          iter = iter.offsetParent;
+        } while (iter);
+        e.Top = top;
+        return top;
+      };
+
+      ShowOnScroll.prototype.onScroll = function () {
+        var screenBottom = window.pageYOffset + window.innerHeight;
+        if (this.nextEventY == undefined || this.nextEventY > screenBottom) {
+          return;
+        }
+        this.nextEventY = undefined;
+        for (var i = 0; i < this.toShow.length; i++) {
+          var e = this.toShow[i];
+          var top = this.getTop(e);
+          if (top < screenBottom) {
+            this.show(e);
+            this.toShow.shift();
+            i--;
+          } else {
+            this.nextEventY = top;
+            break;
+          }
+        }
+      };
+
+      ShowOnScroll.prototype.resetScrolling = function () {
+        // Clear state
+        var screenBottom = window.pageYOffset + window.innerHeight;
+        for (var i = 0; i < this.toShow.length; i++) {
+          var e = this.toShow[i];
+          this.show(e);
+        }
+        this.toShow = [];
+        this.nextEventY == undefined;
+
+        // Collect items
+        var itemsToShowOnScroll = Array.prototype.slice.call(document.getElementsByTagName("*"));
+        itemsToShowOnScroll = itemsToShowOnScroll.filter(function (e) {
+          return e.getAttribute("show-on-scroll") != undefined;
+        });
+        var getTop = this.getTop;
+        itemsToShowOnScroll.sort(function (a, b) {
+          return getTop(a) - getTop(b);
+        });
+        for (var i = 0; i < itemsToShowOnScroll.length; i++) {
+          var e = itemsToShowOnScroll[i];
+          var top = this.getTop(e);
+          if (top < screenBottom) {
+            continue;
+          }
+          this.toShow.push(e);
+          this.hide(e);
+          this.nextEventY = this.nextEventY != undefined ? this.nextEventY : top;
+        }
+      };
+
+      ShowOnScroll.prototype.handleEvent = function (e) {
+        switch (e.type) {
+          case "scroll":
+            this.onScroll();
+            break;
+          case "resize":
+            this.resetScrolling();
+            break;
+        }
+      };
+
+      ShowOnScroll.prototype.init = function () {
+        this.resetScrolling();
+        window.addEventListener("scroll", this);
+        window.addEventListener("resize", this);
+      };
+
+      // After anima-src
+      setTimeout(function () {
+        var instShowOnScroll = new ShowOnScroll();
+        instShowOnScroll.init();
+      }, 250);
+    </script>
+  </body>
+</html>

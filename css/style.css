@@ -1,0 +1,683 @@
+.animate-enter {
+  animation: animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+1
+}
+.animate-enter1 {
+  animation: animate-enter1-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+1
+}
+.animate-enter2 {
+  animation: animate-enter2-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+1
+}
+.animate-enter3 {
+  animation: animate-enter3-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+1
+}
+.animate-enter4 {
+  animation: animate-enter4-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+1
+}
+.animate-enter5 {
+  animation: animate-enter5-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+1
+}
+.animate-enter6 {
+  animation: animate-enter6-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+1
+}
+.animate-enter7 {
+  animation: animate-enter7-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+1
+}
+.animate-enter8 {
+  animation: animate-enter8-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+1
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.hoeflertext-regular-normal-dove-gray-30px {
+  color: var(--dove-gray);
+  font-family: 'HoeflerText-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+.hoeflertext-regular-normal-white-30px {
+  color: var(--white);
+  font-family: 'HoeflerText-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-regular-normal-white-30px {
+  color: var(--white);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kufistandardgk-regular-normal-white-50px {
+  color: var(--white);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+}
+.web-1366-1 {
+  background-color: var(--white);
+  height: 3141px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1366px;
+}
+.web-1366-1 .about-me-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 3087px;
+  white-space: nowrap;
+  width: 141px;
+}
+.web-1366-1 .about-me-VyzZeT {
+  background-color: transparent;
+  height: 32px;
+  left: calc(21.55% - 30px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.72% - 7px);
+  white-space: nowrap;
+  width: 141px;
+}
+.web-1366-1 .case-study-VyzZeT {
+  background-color: transparent;
+  bottom: calc(46.31% - 18px);
+  color: var(--mountain-mist);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: calc(49.88% - 67px);
+  text-align: left;
+  width: 135px;
+}
+.web-1366-1 .case-study-oming-soon-VyzZeT {
+  background-color: transparent;
+  bottom: calc(46.31% - 18px);
+  color: var(--acapulco);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  width: 301px;
+}
+.web-1366-1 .case-study-ri4jeA {
+  background-color: transparent;
+  bottom: calc(46.31% - 18px);
+  color: var(--acapulco);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: 147px;
+  text-align: left;
+  width: 135px;
+}
+.web-1366-1 .component-2-2-VyzZeT {
+  background-color: transparent;
+  height: 98px;
+  left: 44px;
+  position: absolute;
+  top: calc(23.83% - 23px);
+  width: 285px;
+}
+.web-1366-1 .creating-s-eract-with-VyzZeT {
+  background-color: transparent;
+  bottom: 190px;
+  height: 300px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: 41px;
+  text-align: center;
+  width: 370px;
+}
+.web-1366-1 .ellipse-1-VyzZeT {
+  background-color: transparent;
+  border-radius: 25px;
+  display: block;
+  height: 50px;
+  left: calc(23.10% - 12px);
+  position: absolute;
+  top: 492px;
+  width: 50px;
+1
+}
+.web-1366-1 .ellipse-2-VyzZeT {
+  background-color: transparent;
+  border-radius: 25px;
+  display: block;
+  height: 50px;
+  left: calc(29.18% - 15px);
+  position: absolute;
+  top: 492px;
+  width: 50px;
+1
+}
+.web-1366-1 .ellipse-3-VyzZeT {
+  background-color: transparent;
+  border-radius: 25px;
+  display: block;
+  height: 50px;
+  left: calc(35.26% - 18px);
+  position: absolute;
+  top: 492px;
+  width: 50px;
+1
+}
+.web-1366-1 .generate-h-lder-wants-VyzZeT {
+  background-color: transparent;
+  bottom: 179px;
+  height: 311px;
+  left: calc(48.10% - 175px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  width: 364px;
+}
+.web-1366-1 .greenhouse-VyzZeT {
+  background-color: transparent;
+  color: var(--acapulco);
+  font-family: 'HoeflerText-Regular', Helvetica, Arial, serif;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+  height: 72px;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: calc(42.91% - 31px);
+  white-space: nowrap;
+  width: 384px;
+}
+.web-1366-1 .group-1-C61RwL {
+  background-color: transparent;
+  height: 3048px;
+  left: 0px;
+  position: absolute;
+  top: 94px;
+  width: 1366px;
+}
+.web-1366-1 .icon-aweso-e-linkedin-VyzZeT {
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: calc(35.54% - 9px);
+  position: absolute;
+  top: 505px;
+  width: 24px;
+1
+}
+.web-1366-1 .icon-ionic-e-portrait-VyzZeT {
+  background-color: transparent;
+  display: block;
+  height: 30px;
+  left: calc(29.72% - 5px);
+  position: absolute;
+  top: 502px;
+  width: 15px;
+1
+}
+.web-1366-1 .icon-zocial-email-VyzZeT {
+  background-color: transparent;
+  display: block;
+  height: 16px;
+  left: calc(23.62% - 6px);
+  position: absolute;
+  top: 509px;
+  width: 24px;
+1
+}
+.web-1366-1 .ideation-VyzZeT {
+  background-color: transparent;
+  bottom: calc(22.85% - 16px);
+  height: 72px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  right: calc(49.91% - 96px);
+  text-align: left;
+  width: 192px;
+}
+.web-1366-1 .jenny-clausen-VyzZeT {
+  background-color: transparent;
+  color: var(--dove-gray);
+  display: block;
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 400;
+  height: 80px;
+  left: 173px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  text-align: left;
+  top: 73px;
+  width: 418px;
+1
+}
+.web-1366-1 .jenny-clausen-tDnmrH {
+  background-color: transparent;
+  color: var(--dove-gray);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: 59px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 13px);
+}
+.web-1366-1 .jenny-prof-le-cropped-snvPkq {
+  background-color: transparent;
+  height: calc(100.00% + 135px);
+  left: -11px;
+  position: absolute;
+  top: -68px;
+  width: calc(100.00% + 24px);
+}
+.web-1366-1 .locals-VyzZeT {
+  background-color: transparent;
+  color: var(--mountain-mist);
+  font-family: 'HoeflerText-Regular', Helvetica, Arial, serif;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+  height: 72px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  position: absolute;
+  right: calc(49.91% - 99px);
+  text-align: left;
+  top: calc(42.91% - 31px);
+  white-space: nowrap;
+  width: 198px;
+}
+.web-1366-1 .mask-group-14-VyzZeT {
+  background-color: transparent;
+  height: 365px;
+  position: absolute;
+  right: 138px;
+  top: 0px;
+  width: 241px;
+}
+.web-1366-1 .my-work-VyzZeT {
+  background-color: transparent;
+  color: rgba(107,107,107,1.0);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+  height: 101px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  position: absolute;
+  right: calc(49.91% - 154px);
+  text-align: center;
+  top: calc(30.57% - 31px);
+  width: 308px;
+}
+.web-1366-1 .non-profit-VyzZeT {
+  background-color: transparent;
+  color: var(--gothic);
+  font-family: 'HoeflerText-Regular', Helvetica, Arial, serif;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+  height: 72px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  position: absolute;
+  right: 45px;
+  text-align: left;
+  top: calc(42.91% - 31px);
+  white-space: nowrap;
+  width: 340px;
+}
+.web-1366-1 .path-1-VyzZeT {
+  background-color: transparent;
+  height: 5px;
+  position: absolute;
+  right: calc(43.02% - 165px);
+  top: 110px;
+  width: 383px;
+}
+.web-1366-1 .portfolio-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 632px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 3087px;
+  white-space: nowrap;
+  width: 124px;
+}
+.web-1366-1 .portfolio-VyzZeT {
+  background-color: transparent;
+  height: 33px;
+  left: calc(43.56% - 54px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.73% - 7px);
+  white-space: nowrap;
+  width: 124px;
+}
+.web-1366-1 .rectangle-22-VyzZeT {
+  background-color: var(--acapulco);
+  bottom: 0px;
+  height: 1155px;
+  left: 0px;
+  position: absolute;
+  width: 455px;
+}
+.web-1366-1 .rectangle-23-VyzZeT {
+  background-color: var(--gothic);
+  bottom: 0px;
+  height: 1155px;
+  left: calc(50.00% - 228px);
+  position: absolute;
+  width: 456px;
+}
+.web-1366-1 .rectangle-24-VyzZeT {
+  background-color: var(--mountain-mist);
+  bottom: 0px;
+  height: 1155px;
+  position: absolute;
+  right: 0px;
+  width: 455px;
+}
+.web-1366-1 .resume-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1103px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 3087px;
+  white-space: nowrap;
+  width: 110px;
+}
+.web-1366-1 .resume-VyzZeT {
+  background-color: transparent;
+  height: 32px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(36.23% - 40px);
+  text-align: left;
+  top: calc(20.72% - 7px);
+  white-space: nowrap;
+  width: 110px;
+}
+.web-1366-1 .see-all-projects-VyzZeT {
+  background-color: transparent;
+  color: var(--dove-gray);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: calc(49.92% - 94px);
+  text-align: left;
+  top: calc(33.22% - 13px);
+  width: 188px;
+}
+.web-1366-1 .travelers---they-othe-VyzZeT {
+  background-color: transparent;
+  color: var(--mountain-mist);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 219px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(49.90% - 200px);
+  text-align: center;
+  top: calc(48.14% - 105px);
+  width: 400px;
+}
+.web-1366-1 .user-research-VyzZeT {
+  background-color: transparent;
+  bottom: calc(22.20% - 32px);
+  height: 142px;
+  left: 110px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  width: 238px;
+}
+.web-1366-1 .ux-design-VyzZeT {
+  background-color: transparent;
+  bottom: calc(22.20% - 32px);
+  height: 142px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  right: 139px;
+  text-align: center;
+  width: 174px;
+}
+.web-1366-1 .ux-designer-VyzZeT {
+  background-color: transparent;
+  color: var(--dove-gray);
+  display: block;
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+  height: 65px;
+  left: 173px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 151px;
+  width: 301px;
+1
+}
+.web-1366-1 .ux-designer-tDnmrH {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--dove-gray);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 44px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: 61px;
+  text-align: left;
+  width: 179px;
+}
+.web-1366-1 .we-believe-ng-to-help-VyzZeT {
+  background-color: transparent;
+  color: var(--gothic);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 208px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 31px;
+  text-align: center;
+  top: calc(48.17% - 100px);
+  width: 367px;
+}
+.web-1366-1 .when-someo--reminders-VyzZeT {
+  background-color: transparent;
+  color: var(--acapulco);
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 198px;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: calc(48.18% - 95px);
+  width: 348px;
+}
+.web-1366-1 .with-an-em-he-project-VyzZeT {
+  background-color: transparent;
+  bottom: 211px;
+  height: 279px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  width: 364px;
+}
+.web-1366-1 .with-my-ex--was-found-VyzZeT {
+  background-color: transparent;
+  color: var(--dove-gray);
+  display: block;
+  font-family: 'KufiStandardGK-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 282px;
+  left: 173px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 221px;
+  width: 584px;
+1
+}
+.web-1366-1 .x1-tDnmrH {
+  background-color: transparent;
+  color: var(--dove-gray);
+  font-family: 'HelveticaNeue-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 2px;
+  left: calc(100.71% - 2px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(47.92% - 1px);
+  white-space: nowrap;
+  width: 2px;
+}
+:root {
+  --acapulco: rgba(128,173,160,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --gothic: rgba(100,150,166,1.0);
+  --mountain-mist: rgba(153,153,153,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+@keyframes animate-enter-frames {
+
+from{1}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter1-frames {
+
+from{1}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter2-frames {
+
+from{1}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter3-frames {
+
+from{1}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter4-frames {
+
+from{1}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter5-frames {
+
+from{1}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter6-frames {
+
+from{1}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter7-frames {
+
+from{1}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter8-frames {
+
+from{1}
+to{opacity: 1;transform: translate(0,0);}
+}
